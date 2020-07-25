@@ -10,23 +10,10 @@
   For building emulator using Android Studio, 
   <br> 1. You need to install Android Studio in your system.
   <br> 2. After installing Android Studio, Go to the Windows--->Android Studio--->Click Open
+  <br> 3. Goto Configure--->AVD Manager--->Create Virtual Device--->Choose Phone and select whatever resources you need for your emulator.
+  <br> 4. Click next,next,next and finish.
   
-  
-   ![](Images/emulator_build_1.png)
-  
-  
-   ![](Images/emulator_build_2.png)
-  
-  
-   ![](Images/emulator_build_3.png)
-   
-    
-   ![](Images/emulator_build_4.png)
-  
-  
-   ![](Images/emulator_build_5.png)
-    
-    
+     
    ![](Images/emulator_build_6.png)
    
    After clicking on finish button, this will take some while to process your AVD so wait for some time till that have some tea and snacks. After it finishes, your emulator will    be visible in the emulators list. So congrats you now builded your own emulator successfully. 
