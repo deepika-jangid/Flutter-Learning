@@ -12,5 +12,9 @@
   <br> 2. After installing Android Studio, Go to the Windows--->Android Studio--->Click Open
   
   
-  ![](Hello%20World/Images/emulator_build_1.png)
+  ![](Images/emulator_build_1.png)
+  
+  
+  
+  
       
