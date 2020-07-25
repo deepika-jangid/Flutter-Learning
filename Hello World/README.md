@@ -53,8 +53,8 @@
    
    ![](Images/creating_app.png)
    
-    Now, Open the app file that you created from VSCode by going to OpenFolder/Dir--->App--->lib--->main.dart
-    Write the code as follows in main.dart-
+   Now, Open the app file that you created from VSCode by going to OpenFolder/Dir--->App--->lib--->main.dart
+   Write the code as follows in main.dart-
     
     import 'package:flutter/material.dart';
 
