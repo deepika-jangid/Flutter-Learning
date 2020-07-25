@@ -4,7 +4,7 @@
   <br>This is my first flutter project which is a very basic flutter project just like the "Hello World" code we write in every programming language. <br>Here I will explain you             everything from basic to detail about how you can create this small app, how to build emulator, how to launch emulator, how to run app, etc. 
                        So let's start our journey of learning flutter from basic to advanced, starting from 
                        
-  <br><b>"How to build an emulator/Android Virtual Device(AVD) using Android Studio?"</b>
+  <br><b>--->"How to build an emulator/Android Virtual Device(AVD) using Android Studio?"</b>
                                 
                                 
   For building emulator using Android Studio, 
@@ -44,7 +44,7 @@
    <b>Note</b>- For running the app, It is must to build the emulator and launch it because emulator is the device on which your app will gonna run. 
    
    
-   <br><b>"How to create app?"</b>
+   <br><b>--->"How to create app?"</b>
 
   
   
