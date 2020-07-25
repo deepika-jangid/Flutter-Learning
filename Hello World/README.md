@@ -18,7 +18,7 @@
    
    After clicking on finish button, this will take some while to process your AVD so wait for some time till that have some tea and snacks. After it finishes, your emulator will    be visible in the emulators list. So congrats you now builded your own emulator successfully. 
       
-   <br><b>--->"How to create app?"</b>
+   # "How to create app?"
    
    1. Through the command prompt, Goto the path where your flutter is installed. 
    2. Make a dir over there using command 'mkdir' and give any name like 'mkdir Name of your Dir'.
