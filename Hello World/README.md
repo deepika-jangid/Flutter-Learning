@@ -61,6 +61,11 @@
    ![](Images/emulator_launch_2_method.png)
    
    <b>Note</b>- For running the app, It is must to build the emulator and launch it because emulator is the device on which your app will gonna run. 
+   
+   Now you will see the output as follows-
+   
+  
+  ![](Images/Hello-World-Image.png)
   
   
   
