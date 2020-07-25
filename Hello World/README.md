@@ -5,3 +5,12 @@
                        So let's start our journey of learning flutter from basic to advanced, starting from 
                        
                                 "How to build an emulator/Android Virtual Device(AVD) using Android Studio."
+                                
+                                
+  For building emulator using Android Studio, 
+  <br> 1. You need to install Android Studio in your system.
+  <br> 2. After installing Android Studio, Go to the Windows--->Android Studio--->Click Open
+  
+  
+  ![](Hello%20World/Images/emulator_build_1.png)
+      
