@@ -30,20 +30,7 @@
    ![](Images/emulator_build_6.png)
    
    After clicking on finish button, this will take some while to process your AVD so wait for some time till that have some tea and snacks. After it finishes, your emulator will    be visible in the emulators list. So congrats you now builded your own emulator successfully. 
-   
-   Now you can launch the emulator that you build in two ways-
-   1. From command line by typing the command 'flutter emulators --launch "Name of your Emulator" '
-   
-   
-   ![](Images/emulator_launch_1_method.png)
-   
-   2. From VS Code, after writting the code for app, save the code and goto RUN--->Start Debugging
-   
-   ![](Images/emulator_launch_2_method.png)
-   
-   <b>Note</b>- For running the app, It is must to build the emulator and launch it because emulator is the device on which your app will gonna run. 
-   
-   
+      
    <br><b>--->"How to create app?"</b>
    
    1. Through the command prompt, Goto the path where your flutter is installed. 
@@ -61,6 +48,19 @@
     void main() {
     runApp(MaterialApp(home:Center(child: Text("DD-D3epDOOg0"))));
     }
+    
+    
+   Now you can launch the emulator that you build in two ways-
+   1. From command line by typing the command 'flutter emulators --launch "Name of your Emulator" '
+   
+   
+   ![](Images/emulator_launch_1_method.png)
+   
+   2. From VS Code, after writting the code for app, save the code and goto RUN--->Start Debugging
+   
+   ![](Images/emulator_launch_2_method.png)
+   
+   <b>Note</b>- For running the app, It is must to build the emulator and launch it because emulator is the device on which your app will gonna run. 
   
   
   
