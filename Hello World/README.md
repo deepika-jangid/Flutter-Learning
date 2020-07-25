@@ -46,6 +46,10 @@
    
    <br><b>--->"How to create app?"</b>
    
+   1. Through the command prompt, Goto the path where your flutter is installed. 
+   2. Make a dir over there using command 'mkdir' and give any name like 'mkdir Name of your Dir'.
+   3. Go within that dir by typing command 'cd Name of the Dir'.
+   4. Write over there flutter create 'Any name you want to give to your app' ex- flutter create test1
    
    ![](Images/creating_app.png)
   
