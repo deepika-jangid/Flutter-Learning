@@ -52,6 +52,15 @@
    4. Write over there flutter create 'Any name you want to give to your app' ex- flutter create test1
    
    ![](Images/creating_app.png)
+   
+    Now, Open the app file that you created from VSCode by going to OpenFolder/Dir--->App--->lib--->main.dart
+    Write the code as follows in main.dart-
+    
+    import 'package:flutter/material.dart';
+
+    void main() {
+    runApp(MaterialApp(home:Center(child: Text("DD-D3epDOOg0"))));
+    }
   
   
   
