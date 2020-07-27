@@ -47,7 +47,7 @@
    
    ![](Images/emulator_launch_2_method.png)
    
-   <b>Note</b>- For running the app, It is must to build the emulator and launch it because emulator is the device on which your app will gonna run. 
+   <b>Note</b>- For running the app, It is must to use the emulator, either you can build virtual or use a real one and launch it because emulator is the device on which your   app will gonna run. 
    
    <b>Now you will see the output as follows</b>-
    
