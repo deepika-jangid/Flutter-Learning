@@ -8,3 +8,4 @@
 <br><b>4. Scaffold</b>
 <br><b>5. MaterialApp</b>
 <br><b>6. Appbar</b>
+<br><b>7. Image</b>
