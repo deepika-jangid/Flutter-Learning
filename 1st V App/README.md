@@ -7,3 +7,4 @@
 <br><b>3. IconButton</b>
 <br><b>4. Scaffold</b>
 <br><b>5. MaterialApp</b>
+<br><b>6. Appbar</b>
