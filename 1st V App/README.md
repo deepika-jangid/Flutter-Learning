@@ -6,8 +6,8 @@
 <br><b>2. Scaffold</b>- Scaffold Class is a widget which provides a white screen like a canvas to run your app.
 <br><b>3. Appbar</b>- Scaffold class supports appBar through which you can create a appbar on the top of your app screen. In appBar, you can put Icons, IconButtons, Image, Text, etc. you want, on positions like actions, leading, and so on according to your requirements.
 <br><b>4. Body</b>- The remaining part other than appBar is called as Body. You can put Text, Image, etc. on the body. But the challenge in the body is that it only supports one value i.e. you can only assign one value to the body like either text or image or something else but only one is allowed.
-<br><b>5. Text</b>
-<br><b>5. Image</b>
+<br><b>5. Text</b>-  You can put whatever text you want to put in your app.
+<br><b>5. Image</b>- You can add images to your app.
 <br><b>6. Icon</b>
 <br><b>7. IconButton</b>
 
