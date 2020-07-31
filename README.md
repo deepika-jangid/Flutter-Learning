@@ -4,5 +4,6 @@ In this repository we will uploading the learning material with codes and images
 
 <b>Note</b> : The repository is dynamic and we will keep on adding Projects further from basics to advanced.
 
-1. <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/Hello%20World">Hello World App</a>.
-2. <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/1st%20V%20App">1st Version of App</a>.
+1. <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/Hello%20World">Hello World App</a>
+2. <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/1st%20V%20App">1st Version of App</a>
+3. <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/I%20AM%20RICH">I AM RICH</a>
