@@ -7,7 +7,7 @@ In this repository we will uploading the learning material with codes and images
 In this directory we have created the 1st Hello World App using flutter. It is very simple and it is for beginners.
 
 <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/1st%20V%20App">2. 1 V App</a><br>
-This is the 1st version of my App which I have created. 
+This is the 1st version of my App which I have created. Soon will update it and make it more beautiful.
 
 <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/I%20AM%20RICH">3. I AM RICH App</a><br>
 
