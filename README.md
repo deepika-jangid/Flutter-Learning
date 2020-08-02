@@ -10,6 +10,6 @@ In this directory we have created the 1st Hello World App using flutter. It is v
 This is the 1st version of my App which I have created. Soon will update it and make it more beautiful.
 
 <a href = "https://github.com/deepika-jangid/Flutter-Learning/tree/master/I%20AM%20RICH">3. I AM RICH APP</a><br>
-In this app we have create some thing like I AM RICH app which was created by one of the developer.
+In this app we have create some thing like I AM RICH app which was created by one of the developer named Armin Heinrich. 
 
 <b>Note</b> : The repository is dynamic and we will keep on adding Projects further from basics to advanced.
