@@ -12,7 +12,4 @@
 <br><b>8. IconButton</b>- By default the icon you created is not interactive. It is just a icon so to make it interactive like when we press it, something happens then we can go for IconButton which makes the icon as a button as well. And here you can put what you want to be happen when you will press the button. 
 
 
-
-
-
-  <br> ![](Images/App%20Preview.png)
+<br> ![](Images/App%20Preview.png)
