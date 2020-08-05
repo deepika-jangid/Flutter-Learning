@@ -4,7 +4,7 @@ Hello learners, As you have learned how to create a *MaterialApp in [Hello World
 
 ## What we will have in the last
 
-<img src="https://user-images.githubusercontent.com/56965382/89400495-9916d080-d731-11ea-96f9-b2328ba1b12d.png" width="100%"></img
+<img src="https://user-images.githubusercontent.com/56965382/89400495-9916d080-d731-11ea-96f9-b2328ba1b12d.png" width="100%"></img>
 
 ### What you will learn
 
