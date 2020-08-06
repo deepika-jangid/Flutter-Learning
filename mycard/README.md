@@ -102,12 +102,12 @@ class MyHomepage extends StatelessWidget {
 
 Here we are going to use MediaQuery to get the actual height and widget.
 
-We will return a container of height & width equals to screen further we pass Stack widget as the child of Parent Container 'you acn think of stack as datastructure' which will help us to arrange all children widget one above other inside stack widget, Here we going to have two Container and one with black color and text and icon within it and other above it with avtar inside it.
+We will return a container of height & width equals to screen further we pass Stack widget as the child of Parent Container 'you can think of stack as datastructure' which will help us to arrange all children widget one above other inside stack widget, Here we are going to have two Container and one with black color, text and icon within it and other above it with avtar inside it.
 
 To fill container with image we have use decoration property.
 **Note if you have used decoration you can not use color property of container**
 
-We have used Row widget to get the icon and Text in Row. and wrapped three row widget with column to get all the row in a up two down manner. 
+We have used Row widget to get the icon and Text in Row. and wrapped three row widget with column to get all the row in a top to down order. 
 
 For the alignment we have used Mainaxis and crossaxis alignment of column and also the alignment property of container and stack widget.
 
