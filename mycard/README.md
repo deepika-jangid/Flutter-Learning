@@ -107,7 +107,7 @@ We will return a container of height & width equals to screen further we pass St
 To fill container with image we have use decoration property.
 **Note if you have used decoration you can not use color property of container**
 
-We have used Row widget to get the icon and Text in Row. and wrapped three row widget with column to get all the row in a top to down order. 
+We have used Row widget to get the icon and Text in Row. and wrapped three row widget with column to get all the row in a top to down order 
 
 For the alignment we have used Mainaxis and crossaxis alignment of column and also the alignment property of container and stack widget.
 
