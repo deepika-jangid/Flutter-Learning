@@ -3,4 +3,5 @@ This is very basic app for beginners but interesting. There's a real incident be
 ![](images/SS.png)
 <br><br>
 So, above you can see the screen shot of code with the image and directory tree as well. Now just go ahead and give a try of your own and try to create an app which will named as i_am_poor. The app will be same as the i_am_rich but you just need to true for yourself and create your own app. It will help you to apply your own ideas and practise whatever you have learned form i_am_rich app. Here's a sample screen-shot of the app.<br><br>
-<img width="60%" src="https://raw.githubusercontent.com/deepika-jangid/Flutter-Learning/master/I%20AM%20RICH/images/TryUrself.png">
+<img width="60%" src="https://raw.githubusercontent.com/deepika-jangid/Flutter-Learning/master/I%20AM%20RICH/images/TryUrself.png"><br><br>
+Mentored By - <a href="https://www.linkedin.com/in/angela-yu-963a584b/">Angela Yu</a>
